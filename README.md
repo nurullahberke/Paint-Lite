@@ -8,6 +8,8 @@
 
 -adjustable eraser and pencil size
 
+-simple undo-redo options
+
 -Color palette for selecting pen and background colors
 
 -Option to clean the screen and save the screen as a PNG file
@@ -15,3 +17,5 @@
 -3 preset save slots
 
 -a grip tool for navigating the canvas
+
+-graphics tablet support added
